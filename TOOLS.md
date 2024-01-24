@@ -1,0 +1,27 @@
+# Tools
+
+- zig
+- zls
+- clang
+- clangd
+- gcc
+- gdb
+- tcc
+- valgrind
+- strace
+- tracy
+- rustup (rustc)
+- rust-analyzer
+- lldb (lldb-vscode)
+- helix (kakoune, nvim + astrovim)
+- obsidian
+- hyprland
+- fzf
+- ripgrep
+- qutebrowser
+- btop
+- kitty (foot, alacritty)
+- lsd (exa)
+- gitui
+- marksman
+- binutils (readelf, objdump, strip...)

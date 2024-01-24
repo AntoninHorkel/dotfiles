@@ -1,0 +1,2 @@
+#!/bin/sh
+hx $(rg "todo|fixme|hack" -L.in --color never --no-ignore --sortr path | fzf | cut -d : -f 1-2)
